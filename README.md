@@ -7,5 +7,5 @@ Check out my live portfolio hosted on AWS S3: [Visit Website](https://trevon-swi
 
 Projects
 - AWS S3 Static Website Hosting
-- Cloud Security Auditing
-- Network Penetration Testing
+- Cloud Security Auditing (in progress)
+- Network Penetration Testing (in progress)
