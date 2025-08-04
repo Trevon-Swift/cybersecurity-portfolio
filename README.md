@@ -10,7 +10,7 @@ Welcome to my comprehensive cybersecurity portfolio! This repository demonstrate
 
 ## 🛡️ Core Security Projects
 
-### [🔍 Vulnerability Management Lab](https://github.com/Trevon-Swift/vulnerability-management-lab)
+### [🔍 Vulnerability Management Lab](https://github.com/Trevon-Swift/Vulnerability-Management-Project-1)
 **Status:** 🚧 In Progress | **Timeline:** 3 weeks
 
 Professional vulnerability assessment laboratory using industry-standard tools and methodologies. Building comprehensive scanning, analysis, and professional reporting capabilities.
