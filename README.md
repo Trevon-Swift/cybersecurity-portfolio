@@ -4,8 +4,6 @@
 
 Welcome to my comprehensive cybersecurity portfolio! This repository demonstrates practical security expertise through hands-on projects covering vulnerability management, malware analysis, web application security, automation, and system hardening. Each project showcases real-world skills that employers value in cybersecurity professionals.
 
-**Portfolio Website:** [Visit Live Portfolio](https://trevon-swift-cybersecurity-portfolio.s3.us-east-1.amazonaws.com/index.html) (Hosted on AWS S3)
-
 ---
 
 ## 🛡️ Core Security Projects
@@ -26,7 +24,7 @@ Professional vulnerability assessment laboratory using industry-standard tools a
 
 ---
 
-### [🦠 Malware Analysis Lab](https://github.com/Trevon-Swift/malware-analysis-lab)
+### [🦠 Malware Analysis Lab](Coming Soon)
 **Status:** 📋 Planned (Next Project) | **Timeline:** 4 weeks
 
 Isolated malware analysis environment for static and dynamic analysis. Will feature custom detection rules, IOC development, and threat intelligence generation.
@@ -42,7 +40,7 @@ Isolated malware analysis environment for static and dynamic analysis. Will feat
 
 ---
 
-### [🕷️ Web Application Security Testing](https://github.com/Trevon-Swift/web-application-security)
+### [🕷️ Web Application Security Testing](Coming Soon)
 **Status:** 📋 Planned (Project 3) | **Timeline:** 4 weeks
 
 Comprehensive web application penetration testing covering OWASP Top 10 vulnerabilities. Will include automated testing workflows and professional security assessments.
@@ -58,7 +56,7 @@ Comprehensive web application penetration testing covering OWASP Top 10 vulnerab
 
 ---
 
-### [🤖 Security Automation & Scripting](https://github.com/Trevon-Swift/security-automation-scripts)
+### [🤖 Security Automation & Scripting](Coming Soon)
 **Status:** 📋 Planned (Project 4) | **Timeline:** 5 weeks
 
 Python-based security automation for SOC operations, log analysis, and incident response. Will automate manual security tasks and improve operational efficiency.
@@ -74,7 +72,7 @@ Python-based security automation for SOC operations, log analysis, and incident 
 
 ---
 
-### [🛡️ Linux System Hardening](https://github.com/Trevon-Swift/linux-system-hardening)
+### [🛡️ Linux System Hardening](Coming Soon)
 **Status:** 📋 Planned (Project 5) | **Timeline:** 4 weeks
 
 CIS benchmark implementation and comprehensive Linux server hardening project. Will demonstrate enterprise-level security configuration and compliance management.
@@ -92,7 +90,7 @@ CIS benchmark implementation and comprehensive Linux server hardening project. W
 
 ## 🌐 Cloud Security Projects
 
-### [☁️ AWS S3 Static Website Hosting](https://github.com/Trevon-Swift/aws-s3-portfolio-hosting)
+### [☁️ AWS S3 Static Website Hosting](https://trevon-swift-cybersecurity-portfolio.s3.us-east-1.amazonaws.com/index.html)
 **Status:** ✅ Complete
 
 Secure static website deployment on AWS S3 with proper access controls, CloudFront distribution, and security best practices implementation.
@@ -106,7 +104,7 @@ Secure static website deployment on AWS S3 with proper access controls, CloudFro
 **Technologies:** AWS S3, CloudFront, Route 53, IAM, CloudWatch  
 **Skills Demonstrated:** Cloud Security, AWS Services, Infrastructure Security
 
-### [🔐 Cloud Security Auditing Framework](https://github.com/Trevon-Swift/cloud-security-auditing)
+### [🔐 Cloud Security Auditing Framework](Coming Soon)
 **Status:** 📋 Planned
 
 Automated cloud security assessment tools for AWS environments. Will identify misconfigurations, compliance gaps, and security vulnerabilities across cloud infrastructure.
