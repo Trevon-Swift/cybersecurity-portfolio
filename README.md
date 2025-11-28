@@ -8,16 +8,16 @@ Welcome to my comprehensive cybersecurity portfolio! This repository demonstrate
 
 ## 🛡️ Core Security Projects
 
-### [🔒 Home SIEM Lab - Wazuh 4.14](https://github.com/Trevon-Swift)
-**Status:** 🚀 Active | **Timeline:** Nov 1 - Dec 15, 2025 | **Progress:** 35%
+### [🔒 Home SIEM Lab - Wazuh 4.14] (https://github.com/Trevon-Swift/SIEM-Homelab-Project-V2)
+**Status:** 🚀 Active | **Timeline:** Nov 1 - Dec 15, 2025 | **Progress:** 90%
 
 Enterprise-grade Security Information and Event Management (SIEM) homelab using Wazuh 4.14. Building comprehensive multi-platform security monitoring across Windows, Linux, and Kali Linux systems with attack simulation and detection engineering.
 
 **Current Progress:**
 - ✅ Phase 1: Foundation - Ubuntu Server 24.04.1 LTS deployment with Wazuh Manager 4.14 installation
-- 🚧 Phase 2: Agent Deployment - Kali Linux, Windows 10, and Ubuntu Desktop agent deployment (This Week)
-- 📋 Phase 3: Attack Simulation - Network reconnaissance, brute force, and web exploitation scenarios (Week 2)
-- 📋 Phase 4: Detection Engineering - Custom rules, File Integrity Monitoring, and alert correlation (Week 3)
+- 🚧 Phase 2: Agent Deployment - Kali Linux agent deployment 
+- 📋 Phase 3: Attack Simulation - Network reconnaissance, brute force, and web exploitation scenarios 
+- 📋 Phase 4: Detection Engineering - Custom rules, File Integrity Monitoring, and alert correlation 
 
 **Technologies:** Wazuh 4.14, VirtualBox, Ubuntu Server, Windows 10, Kali Linux, Bash, Python  
 **Skills Demonstrated:** SIEM Operations, Threat Detection, Log Analysis, Incident Response, Network Security, Attack Simulation
