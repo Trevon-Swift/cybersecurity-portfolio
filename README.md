@@ -15,8 +15,8 @@ Enterprise-grade Security Information and Event Management (SIEM) homelab using 
 
 **Current Progress:**
 - ✅ Phase 1: Foundation - Ubuntu Server 24.04.1 LTS deployment with Wazuh Manager 4.14 installation
-- 🚧 Phase 2: Agent Deployment - Kali Linux agent deployment 
-- 📋 Phase 3: Attack Simulation - Network reconnaissance, brute force, and web exploitation scenarios 
+- ✅ Phase 2: Agent Deployment - Kali Linux agent deployment 
+- ✅ Phase 3: Attack Simulation - Network reconnaissance, brute force, and web exploitation scenarios 
 - 📋 Phase 4: Detection Engineering - Custom rules, File Integrity Monitoring, and alert correlation 
 
 **Technologies:** Wazuh 4.14, VirtualBox, Ubuntu Server, Windows 10, Kali Linux, Bash, Python  
