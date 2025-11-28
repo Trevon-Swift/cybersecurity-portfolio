@@ -219,14 +219,8 @@ I'm actively seeking cybersecurity roles in:
 
 ## 🚀 What's Next?
 
-### 📅 Current Week (Nov 14-20, 2025)
-- Complete Phase 2: Agent Deployment for Home SIEM Lab
-- Deploy Wazuh agents on Kali Linux, Windows 10, and Ubuntu Desktop
-- Verify all agents reporting to manager
-- Configure baseline monitoring rules
-
 ### 📅 Q4 2025 Goals  
-- Complete SIEM homelab with attack simulation and detection engineering
+✅ Complete SIEM homelab with attack simulation and detection engineering
 - Begin malware analysis lab setup and first sample analysis
 - Start web application security testing methodology development
 - Complete security automation scripts for SOC operations
@@ -243,7 +237,7 @@ I'm actively seeking cybersecurity roles in:
 
 | Project | Status | Progress | Timeline | Technologies |
 |---------|--------|----------|----------|---------------|
-| Home SIEM Lab | 🚀 Active | 35% | Nov - Dec 2025 | Wazuh, VirtualBox, Ubuntu, Windows, Kali |
+| Home SIEM Lab | 🚀 Active | 90% | Nov - Dec 2025 | Wazuh, VirtualBox, Ubuntu, Windows, Kali |
 | Vulnerability Management | ⏸️ Paused | 25% | Oct 2025 - Jan 2026 | Nessus, OpenVAS, Python |
 | Malware Analysis | 📋 Planned | 0% | Jan - Feb 2026 | FlareVM, REMnux, YARA |
 | Web App Security | 📋 Planned | 0% | Feb - Mar 2026 | Burp Suite, OWASP, Postman |
@@ -253,4 +247,4 @@ I'm actively seeking cybersecurity roles in:
 
 *This portfolio demonstrates practical cybersecurity expertise through hands-on projects and real-world applications. Every project is designed to showcase skills that employers value and security challenges that organizations face daily.*
 
-**Last Updated:** November 14, 2025
+**Last Updated:** November 27, 2025
